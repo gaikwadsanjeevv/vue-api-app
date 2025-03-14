@@ -24,7 +24,7 @@ npm run serve
 #### Open the App in a Browser  
 ```git
  App running at:
-  - Local:   http://localhost:8081/
+  - Local:   http://localhost:8081/       //Note: The Port number may vary with different OS  
   - Network: http://192.168.1.135:8081/
 
 open http://localhost:8081/ in browser to see the app running.
