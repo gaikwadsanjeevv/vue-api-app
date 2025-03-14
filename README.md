@@ -3,7 +3,7 @@
 
 ### Method 1: Run the Project Locally in an IDE  
 
-#### Step 1: Clone the Repository in any terminal
+#### Step 1: Clone the Repository in any terminal (Note: if Git is installed in the System)  
 ```git
 git clone https://github.com/gaikwadsanjeevv/vue-api-app
 ```
