@@ -23,10 +23,11 @@ npm run serve
 ```
 #### Open the App in a Browser  
 ```git
-App running at:
-  - Local:   http://localhost:8080/
+ App running at:
+  - Local:   http://localhost:8081/
+  - Network: http://192.168.1.135:8081/
 
-open http://localhost:8080/ in their browser to see the app running.
+open http://localhost:8081/ in browser to see the app running.
 ```
 ===========================================================================
 ### Method 2: Run the Project Directly in GitHub Codespaces  
